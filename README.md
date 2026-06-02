@@ -480,6 +480,16 @@ Scalability:
 - ✓ Comprehensive documentation
 - ✓ 23% accuracy improvement achieved
 
+
+## 👥 Team Eagle
+
+### Contributors
+- Anand Tiwari
+- Om Chauhan
+- Dhruv Patel
+- Kshitij Srivastava
+- Jaimin Koriya
+
 ---
 
 **Built with ❤️ for the Powermind Hackathon by Team Eagle**
